@@ -1,0 +1,10 @@
+img{
+    max-width: 100%; ; /*largura uso em px e % */
+    
+    height: auto; ; /* altura uso em px e % */
+    /* max-widht: 320px; */
+    
+    border-radius: 20%; /* arredonda as bordas da imagem */
+    border: 5px double #008000; /* adiciona uma borda que pode ser estilizada */
+
+}
