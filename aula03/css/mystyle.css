@@ -6,5 +6,140 @@ img{
     
     border-radius: 20%; /* arredonda as bordas da imagem */
     border: 5px double #008000; /* adiciona uma borda que pode ser estilizada */
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 
+}
+
+.zoro{
+    font-size: 50px;
+    font-family: fantasy;
+    color: green;
+    border: 5px solid rgb(185, 24, 113);
+    text-align: center;
+    text-decoration:none;
+    text-shadow: 2px 2px;
+    background-color: hotpink;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+h1{
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    background-color: #a6ff4d;
+    opacity: 0.5;
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    background-color: #a6ff4d;
+    background-image: url("img_zoro sola.jpg");
+}
+
+video{
+    display: block;
+    margin: 0 auto;
+}
+
+.sanjitxt{
+    font-size: 50px;
+    font-family: fantasy;
+    color:yellow;
+    border: 5px solid yellow;
+    text-align: center;
+    text-decoration:none;
+    background-color: #1a1aff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.sanji{
+    width: 20%; ; /*largura uso em px e % */
+    
+    height:auto; ; /* altura uso em px e % */
+    /* max-widht: 320px; */
+    
+    border-radius: 20%; /* arredonda as bordas da imagem */
+    border: 5px double yellow; /* adiciona uma borda que pode ser estilizada */
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sanjicigarette{
+    font-size: 50px;
+    font-family: fantasy;
+    color:yellow;
+    border: 5px solid yellow;
+    text-align: center;
+    text-decoration:none;
+    background-color: #1a1aff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.sanjivideo{
+    padding-left: 30px;
+    padding-right: 70px;
+    width: 700px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #8cff1a;
+    color: white;
+}
+
+.asas{
+    font-size: 50px;
+    font-family: fantasy;
+    color:yellow;
+    border: 5px inset yellow;
+    text-align: center;
+    text-decoration:none;
+    background-color: #f01919;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.wings{
+    max-width: 100%; ; /*largura uso em px e % */
+    
+    height: 450px; ; /* altura uso em px e % */
+    /* max-widht: 320px; */
+    
+    border-radius: 0%; /* arredonda as bordas da imagem */
+    border: 5px double yellow; /* adiciona uma borda que pode ser estilizada */
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
