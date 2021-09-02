@@ -20,7 +20,7 @@ img{
     text-align: center;
     text-decoration:none;
     text-shadow: 2px 2px;
-    background-color: hotpink;
+    background-color: #ff99ff;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -34,15 +34,15 @@ img{
 
 h1{
     font-family: monospace;
-    color: rgb(0, 0, 0);
-    background-color: #a6ff4d;
+    color: #f1f1f1;
+    background-color: #222;
     opacity: 0.5;
     text-align: center;
     font-size: 40px;
 }
 
 body{
-    background-color: #a6ff4d;
+    background-color: #222;
     background-image: url("img_zoro sola.jpg");
 }
 
@@ -58,7 +58,7 @@ video{
     border: 5px solid yellow;
     text-align: center;
     text-decoration:none;
-    background-color: #1a1aff;
+    background-color: #1aa3ff;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -89,7 +89,7 @@ video{
     border: 5px solid yellow;
     text-align: center;
     text-decoration:none;
-    background-color: #1a1aff;
+    background-color: #1aa3ff;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -109,7 +109,7 @@ video{
 footer {
     text-align: center;
     padding: 3px;
-    background-color: #8cff1a;
+    background-color: #222;
     color: white;
 }
 
@@ -120,7 +120,8 @@ footer {
     border: 5px inset yellow;
     text-align: center;
     text-decoration:none;
-    background-color: #f01919;
+    background-color: ;
+    background-color: #ff4d4d;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -129,6 +130,7 @@ footer {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    
 }
 
 .wings{
