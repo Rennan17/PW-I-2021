@@ -1,0 +1,78 @@
+body{
+    background-color: #222;
+}
+
+img{
+    max-width: 100px;
+    margin-top: 30px;
+}
+
+p{
+    color: #ffff;
+    font-size: 20px;
+}
+
+h2{
+    color: #cc6699;
+    font-size: 35px;
+
+}
+
+li{
+    color: #ffff;
+    font-size: 25px;
+}
+
+h1{
+    color: #b300b3;
+    text-align: center;
+    font-size: 50px;
+}
+
+mark{
+    color: #ffff;
+    text-align:center;
+    background-color:#222;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+h3{
+    color: #cc6699;
+    font-size: 35px;
+}
+
+.htmlcss{
+   
+    max-width: 400px;
+    max-height: 300px;
+    margin-bottom: 50px;
+    border-radius: 40%;
+    border: solid;
+}
+
+.gitimage{
+    margin-bottom: 50px;
+    max-width: 400px;
+    max-height: 300px;
+    border-radius: 40%;
+    border: solid;
+    align-items:center;
+    display: flex;
+}
+ 
+.htmltext{
+    margin-bottom: 40px;
+}
+.csstext{
+    margin-bottom: 40px;
+}
+
+.gittext{
+    margin-bottom: 40px;
+    
+}
+
+p{
+    margin-top: 60px;
+}
