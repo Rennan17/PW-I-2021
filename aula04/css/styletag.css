@@ -27,6 +27,8 @@ h1{
     color: #b300b3;
     text-align: center;
     font-size: 50px;
+    margin-bottom: 70px;
+    border-style: dashed;
 }
 
 mark{
@@ -75,4 +77,13 @@ h3{
 
 p{
     margin-top: 60px;
+    font-size: 25px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+.email{
+    color:violet;
 }
