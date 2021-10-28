@@ -1,0 +1,10 @@
+table{
+    border: 5px double purple;
+}
+
+tr,td:first-child {
+    background-color: rgb(250, 128, 114);
+    border-collapse: collapse;
+    color: #000000;
+}
+
